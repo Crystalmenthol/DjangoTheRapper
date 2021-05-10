@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+
+# Virsual env
+env
+
+# Database
+db.sqlite3
+
+# Text Editor
+.vscode
+.idea
+
+# media file
+media/
